@@ -23,5 +23,5 @@ See the example in the `.env.example` file
 | `SELECTEL_ZONE_NAME`  | Selectel zone name                                            |
 | `SELECTEL_RECORD_TTL` | Selectel record TTL                                           |
 | `SELECTEL_AUTH_URL`   | Selectel auth URL                                             |
-| `SELECTEL_ZONE_URL`   | Selectel zone URL                                             |
+| `SELECTEL_ZONE_URL`   | Selectel zone URL. Example `.domain.zone.`                    |
 
