@@ -20,8 +20,8 @@ See the example in the `.env.example` file
 | `SELECTEL_USERNAME`   | Selectel username                                             |
 | `SELECTEL_PASSWORD`   | Selectel password                                             |
 | `SELECTEL_ACCOUNT_ID` | Selectel account ID                                           |
-| `SELECTEL_ZONE_NAME`  | Selectel zone name                                            |
+| `SELECTEL_ZONE_NAME`  | Selectel zone name. Example `.domain.zone.`                   |
 | `SELECTEL_RECORD_TTL` | Selectel record TTL                                           |
-| `SELECTEL_AUTH_URL`   | Selectel auth URL                                             |
-| `SELECTEL_ZONE_URL`   | Selectel zone URL                                             |
+| `SELECTEL_AUTH_URL`   | Selectel auth API URL                                         |
+| `SELECTEL_ZONE_URL`   | Selectel zone API URL                                         |
 
